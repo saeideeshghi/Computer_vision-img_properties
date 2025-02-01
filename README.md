@@ -56,11 +56,11 @@ python Main.py
 🤝 Contributing
 Contributions are very welcome! To contribute:
 
-1.Fork the repository.
-2.Create a new branch (e.g., git checkout -b feature/YourFeature).
-3.Commit your changes (e.g., git commit -m 'Add Your Feature').
-4.Push to your branch (git push origin feature/YourFeature).
-5.Open a Pull Request.
+-1.Fork the repository.
+-2.Create a new branch (e.g., git checkout -b feature/YourFeature).
+-3.Commit your changes (e.g., git commit -m 'Add Your Feature').
+-4.Push to your branch (git push origin feature/YourFeature).
+-5.Open a Pull Request.
 
 📜 License
 This project is licensed under the MIT License.
