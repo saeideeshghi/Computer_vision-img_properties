@@ -63,6 +63,6 @@ Contributions are very welcome! To contribute:
 - 5.Open a Pull Request.
 
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
 Let's process images smarter and have fun! ⚡
